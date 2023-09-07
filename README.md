@@ -14,7 +14,7 @@ Please ensure you follow the instructions regarding the Regions to deploy your A
 
 ## The Labs
 
-* [Lab 1](./lab1-Building_Chat_Bots_With_Lex/README.md) - Building your first Amazon Lex chatbot
+* [Lab 1](https://github.com/chimezdev/amazon-lex-v2-chatbot) - Building your first Amazon Lex chatbot
 * [Lab 2](https://github.com/chimezdev/amazon-lex-v2-connect-workshop) - Creating your first call center using Amazon Connect
 
 ## Questions and Contact
